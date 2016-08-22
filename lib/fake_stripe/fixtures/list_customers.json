@@ -1,7 +1,7 @@
 {
   "object": "list",
   "url": "v1/customers",
-  "count": 3,
+  "total_count": 3,
   "data": [
     {
     "object": "customer",
@@ -15,7 +15,7 @@
     },
     "subscriptions": {
       "object": "list",
-      "count": 0,
+      "total_count": 0,
       "url": "/v1/customers/abcdefghijklmnop/subscriptions",
       "data": [
       ]
@@ -25,7 +25,7 @@
     "currency": "usd",
     "sources": {
       "object": "list",
-      "count": 1,
+      "total_count": 1,
       "url": "/v1/customers/abcdefghijklmnop/sources",
       "data": [
         {
@@ -65,7 +65,7 @@
     },
     "subscriptions": {
       "object": "list",
-      "count": 0,
+      "total_count": 0,
       "url": "/v1/customers/cus_3ewUPsNuSVb5hF/subscriptions",
       "data": [
       ]
@@ -75,7 +75,7 @@
     "currency": "usd",
     "sources": {
       "object": "list",
-      "count": 1,
+      "total_count": 1,
       "url": "/v1/customers/cus_3ewUPsNuSVb5hF/sources",
       "data": [
         {
@@ -115,7 +115,7 @@
     },
     "subscriptions": {
       "object": "list",
-      "count": 0,
+      "total_count": 0,
       "url": "/v1/customers/cus_3ewUPsNuSVb5hG/subscriptions",
       "data": [
       ]
@@ -125,7 +125,7 @@
     "currency": "usd",
     "sources": {
       "object": "list",
-      "count": 1,
+      "total_count": 1,
       "url": "/v1/customers/cus_3ewUPsNuSVb5hG/sources",
       "data": [
         {

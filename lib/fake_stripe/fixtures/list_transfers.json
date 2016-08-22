@@ -1,7 +1,7 @@
 {
   "object": "list",
   "url": "/v1/transfers",
-  "count": 3,
+  "total_count": 3,
   "data": [
     {
     "id": "tr_103ehW2eZvKYlo2CvqXdcIQL",
@@ -38,7 +38,7 @@
       "adjustment_gross": 0,
       "adjustment_fees": 0,
       "adjustment_fee_details": [
-  
+
       ],
       "validation_fees": 0,
       "validation_count": 0,
@@ -54,7 +54,7 @@
     },
     "transactions": {
       "object": "list",
-      "count": 626,
+      "total_count": 626,
       "url": "/v1/transfers/tr_103ehW2eZvKYlo2CvqXdcIQL/transactions",
       "data": [
         {
@@ -214,7 +214,7 @@
     },
     "transactions": {
       "object": "list",
-      "count": 626,
+      "total_count": 626,
       "url": "/v1/transfers/tr_103ehW2eZvKYlo2CvqXdcIQM/transactions",
       "data": [
         {
@@ -374,7 +374,7 @@
     },
     "transactions": {
       "object": "list",
-      "count": 626,
+      "total_count": 626,
       "url": "/v1/transfers/tr_103ehW2eZvKYlo2CvqXdcIQN/transactions",
       "data": [
         {
